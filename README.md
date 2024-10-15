@@ -24,6 +24,6 @@ Certifique-se de ter Python instalado. Para instalar as dependências, use:
 pip install requests
 ```
 ## Captura de Tela:
-![Calculadora Monetária](./Calculadora%20Monetária.png)
+![Calculadora Monetária](./Calc%20Monetária.png)
 
 
