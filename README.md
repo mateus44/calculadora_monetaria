@@ -23,5 +23,7 @@ Certifique-se de ter Python instalado. Para instalar as dependências, use:
 ```bash
 pip install requests
 ```
-## Captura de Tela do App:
+## Captura de Tela:
+![Calculadora Monetária](./Calculadora%20Monetária.png)
+
 
